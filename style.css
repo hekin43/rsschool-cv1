@@ -1,1 +1,98 @@
+.nav{
+	display: flex;
+	justify-content: center;
+	list-style-type: none;
+	padding-left: 0;
+	font-family: 'Inter';
+}
+.nav>li{
+	padding: 5px;
+	margin: 0 15px;
+}
+.img1{
+	display: block;
+	text-align: center;
+}
+.hd1{
+	margin: 0 0 0 0;
+	text-align: center;
+	font-family: 'Inter';
+	font-size: 14px;
+}
+.hd3{
+	margin: 0 0 0 0;
+	text-align: center;
+	font-family: 'Inter';
+	font-size: 16px;
+	font-weight: 400;
+}
+.contacts{
+/*	display: block;*/
+	position: relative;
+	left: 32%;
+	top: 30%;
+/*	text-align: center;*/
+	font-family: 'Inter';
+}
+.about_me{
+	max-width: 550px;
+	position: relative;
+	left: 32%;
+	top: 30%;
+/*	text-align: center;*/
+	font-family: 'Inter';
+}
+.skills{
 
+	max-width: 550px;
+	position: relative;
+	left: 32%;
+/*	text-align: center;*/
+	font-family: 'Inter';
+}
+.code_example{
+	display: block;
+/*	max-width: 550px;*/
+	position: relative;
+	left: 32%;
+	top: 30%;
+/*	text-align: center;*/
+	font-family: 'Inter';
+}
+.experience{
+	max-width: 550px;
+	position: relative;
+	left: 32%;
+	top: 30%;
+/*	text-align: center;*/
+	font-family: 'Inter';
+}
+.education{
+	max-width: 550px;
+	position: relative;
+	left: 32%;
+	top: 30%;
+/*	text-align: center;*/
+	font-family: 'Inter';
+}
+.english{
+	max-width: 550px;
+	position: relative;
+	left: 32%;
+	top: 30%;
+/*	text-align: center;*/
+	font-family: 'Inter';
+}
+.foot{
+	font-family: 'Inter';
+}
+.box{
+	display: flex;
+	justify-content: right;
+/*	margin: 0px;
+	text-align: center;*/
+}
+.box>a{
+	margin: 0 30px ;
+}
+.foot{float: left;}
