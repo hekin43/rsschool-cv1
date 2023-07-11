@@ -1,0 +1,101 @@
+.nav{
+	display: flex;
+	justify-content: center;
+	list-style-type: none;
+	padding-left: 0;
+	font-family: 'Inter';
+}
+.nav>li{
+	padding: 5px;
+	margin: 10px 15px;
+}
+.img1{
+	display: block;
+	text-align: center;
+}
+.hd1{
+	margin: 0 0 0 0;
+	text-align: center;
+	font-family: 'Inter';
+	font-size: 14px;
+}
+.hd3{
+	margin: 0 0 0 0;
+	text-align: center;
+	font-family: 'Inter';
+	font-size: 16px;
+	font-weight: 400;
+}
+.main_box{
+	width: 870px;
+	height: 1690px;
+	border-radius: 11px;
+	box-shadow: 0px 2px 11px 0px rgba(0, 0, 0, 0.17);
+	position: relative;
+    margin: auto;
+    top: 10px;
+}
+.contacts{
+	max-width: 550px;
+	position: relative;
+	left: 150px;
+	font-family: 'Inter';
+}
+.about_me{
+	max-width: 550px;
+	position: relative;
+	left: 150px;
+	font-family: 'Inter';
+}
+.skills{
+	max-width: 550px;
+	position: relative;
+	left: 150px;
+	font-family: 'Inter';
+}
+.code_example{
+	max-width: 550px;
+	position: relative;
+	left: 150px;
+	font-family: 'Inter';
+}
+.pre{
+	max-width: 550px;
+	position: relative;
+/*	left: 150px;*/
+	font-family: 'Inter';
+}
+
+.experience{
+	max-width: 550px;
+	position: relative;
+	left: 150px;
+	font-family: 'Inter';
+}
+.education{
+	max-width: 550px;
+	position: relative;
+	left: 150px;
+	font-family: 'Inter';
+}
+.english{
+	max-width: 550px;
+	position: relative;
+	left: 150px;
+	font-family: 'Inter';
+}
+.foot{
+	font-family: 'Inter';
+	position: relative;
+	left: 30px;
+}
+.box{
+	position: relative;
+	display: flex;
+	justify-content: right;
+	margin: 0px;
+}
+.box>a{
+	margin: 0 30px ;
+}
+.foot{float: left;}
