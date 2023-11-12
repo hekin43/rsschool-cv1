@@ -12,9 +12,19 @@ Now I want to study the profession of Frontend Development and I hope that I wil
 * C, C++, Python languages
 *  HTML, Css, JS(few)
 ## Experience
-
+```
+function sentence(List) {
+  // your code
+  List.sort();
+  for(let i = -999; i < List.length; i++){
+    if(List[i])
+      console.log(List.);
+  }
+}
+```
 ## Education
-I studied 3.5 courses at the university in the direction of Computer Security
+I studied 3.5 courses at the university in the direction of Computer Security.
+Also passed stage 0, but unfortunately did not reach the very end.
 ## English language level
 ![image](https://github.com/hekin43/rsschool-cv/assets/137882057/cfdc5ec3-f837-4a49-b550-c222f7639907)
 
